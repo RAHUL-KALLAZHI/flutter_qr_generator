@@ -1,6 +1,6 @@
 # project_qrcode
 
-A new Flutter project.
+Flutter project to generate QR code
 
 ## Getting Started
 
